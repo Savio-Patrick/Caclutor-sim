@@ -1,0 +1,21 @@
+.cal{
+    width: 400px;
+    height: 600px;
+    background-color: grey;
+    margin-left: 490px;
+}
+
+#screen{
+    width: 361px;
+    margin-left: 16px;
+    height: 70px;
+    margin-top: 22px;
+    pointer-events: none;
+}
+.btn{
+    width: 55px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 20px;
+    background-color: azure;
+}
